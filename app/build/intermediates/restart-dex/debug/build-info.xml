@@ -4,40 +4,67 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="1465972552466450000" >
+    timestamp="1465987202022974000"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="425" />
+        duration="1208" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="1364" />
     <task
         name="instant-run-transform"
-        duration="109" />
+        duration="125" />
     <task
         name="verifier"
-        duration="40" />
+        duration="14" />
 
     <artifact
-        location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="1465972000518288000" >
+    <build timestamp="1465980754936269000" >
         <artifact
             location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="1465972552466450000" >
+    <build
+        timestamp="1465985244136021000"
+        verifier="R_CLASS_CHANGE" >
         <artifact
-            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
             type="DEX" />
         <artifact
             location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="1465987005095184000"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1465987091532397000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/builds/debug/1465987091532397000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1465987202022974000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
