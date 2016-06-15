@@ -20,6 +20,10 @@
         "source": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/res/merged/debug/layout/activity_scratch_grid.xml",
+        "source": "/Users/tongull1/Documents/GitHub/ScratchView/app/src/main/res/layout/activity_scratch_grid.xml"
+    },
+    {
         "merged": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_item_material.xml"
     },

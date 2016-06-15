@@ -431,7 +431,7 @@ public class ScratchImageView extends ImageView {
         if (b){
             this.setAlpha(1f);
         } else {
-            this.setAlpha(0.65f);
+            this.setAlpha(0.35f);
         }
         super.setEnabled(b);
     }

@@ -128,7 +128,7 @@
             <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cooltechworks/scratchview/demo/ScratchGrid.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="46" column="70" selection-start-line="46" selection-start-column="70" selection-end-line="46" selection-end-column="70" />
+                  <caret line="46" column="70" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
@@ -141,13 +141,12 @@
           <file leaf-file-name="ScratchGrid.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cooltechworks/scratchview/demo/ScratchGrid.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6467662">
-                  <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+                <state vertical-scroll-proportion="0.39800996">
+                  <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="13" />
                   <folding>
                     <element signature="e#2348#2916#0" expanded="true" />
                     <element signature="e#2915#2916#0" expanded="true" />
                     <element signature="e#2963#3507#0" expanded="true" />
-                    <element signature="e#3506#3507#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -3482,14 +3481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cooltechworks/scratchview/demo/ScratchGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="70" selection-start-line="46" selection-start-column="70" selection-end-line="46" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cooltechworks/scratchview/demo/DemoClothingActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37313432">
@@ -3497,6 +3488,18 @@
           <folding>
             <element signature="e#1423#1686#0" expanded="true" />
             <element signature="e#1685#1686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cooltechworks/scratchview/demo/ScratchGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39800996">
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="13" />
+          <folding>
+            <element signature="e#2348#2916#0" expanded="true" />
+            <element signature="e#2915#2916#0" expanded="true" />
+            <element signature="e#2963#3507#0" expanded="true" />
           </folding>
         </state>
       </provider>

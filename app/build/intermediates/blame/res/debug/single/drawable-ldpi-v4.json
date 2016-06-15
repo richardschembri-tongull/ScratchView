@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_cart.png",
-        "source": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cart.png"
-    },
-    {
         "merged": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_chevron_down.png",
         "source": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chevron_down.png"
+    },
+    {
+        "merged": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_cart.png",
+        "source": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/generated/res/pngs/debug/drawable-ldpi/ic_cart.png"
     },
     {
         "merged": "/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_wishlist.png",

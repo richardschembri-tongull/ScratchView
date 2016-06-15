@@ -26,4 +26,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this, CaptchaActivity.class));
     }
 
+
+    public void onGridViewDemoClick(View v) {
+        startActivity(new Intent(this, ScratchGrid.class));
+    }
+
 }

@@ -1,0 +1,2 @@
+CHANGED,/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cooltechworks/scratchview/demo/ScratchGrid$2.class
+CHANGED,/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/cooltechworks/views/ScratchImageView.class
