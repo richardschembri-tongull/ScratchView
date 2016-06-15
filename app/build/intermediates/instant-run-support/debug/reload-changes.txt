@@ -1,0 +1,5 @@
+CHANGED,/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/cooltechworks/scratchview/demo/DemoClothingActivity$override.class
+CHANGED,/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/cooltechworks/views/ScratchTextView$1$override.class
+CHANGED,/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/cooltechworks/views/ScratchTextView$override.class
+CHANGED,/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/cooltechworks/scratchview/demo/DemoClothingActivity$1$override.class

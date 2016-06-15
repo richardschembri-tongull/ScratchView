@@ -267,6 +267,9 @@ public class ScratchImageView extends ImageView {
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
+        if (!this.isEnabled()){
+            return false;
+        }
         float x = event.getX();
         float y = event.getY();
 
@@ -424,6 +427,14 @@ public class ScratchImageView extends ImageView {
         return new int[] {left, top, left + width, top + height};
     }
 
+    public void setEnabled(boolean b){
+        if (b){
+            this.setAlpha(1f);
+        } else {
+            this.setAlpha(0.65f);
+        }
+        super.setEnabled(b);
+    }
 
 
 }

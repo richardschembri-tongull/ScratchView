@@ -258,6 +258,10 @@ public class ScratchTextView extends TextView {
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
+        if (!this.isEnabled()){
+            return false;
+        }
+
         float x = event.getX();
         float y = event.getY();
 
@@ -424,6 +428,15 @@ public class ScratchTextView extends TextView {
         }
 
         return new int[] {left, top, left + width, top + height};
+    }
+
+    public void setEnabled(boolean b){
+        if (b){
+            this.setAlpha(1f);
+        } else {
+            this.setAlpha(0.65f);
+        }
+        super.setEnabled(b);
     }
 
 

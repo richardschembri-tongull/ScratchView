@@ -38,6 +38,7 @@ public class DemoClothingActivity extends AppCompatActivity {
         mScratchTitleView = (TextView) findViewById(R.id.scratch_title_text);
         ScratchTextView scratchTextView = (ScratchTextView) findViewById(R.id.scratch_view);
 
+        scratchTextView.setEnabled(false);
         if(scratchTextView != null) {
             scratchTextView.setRevealListener(new ScratchTextView.IRevealListener() {
                 @Override

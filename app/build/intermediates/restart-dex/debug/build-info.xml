@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="1465972552466450000" >
+
+    <task
+        name="javac"
+        duration="425" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="109" />
+    <task
+        name="verifier"
+        duration="40" />
+
+    <artifact
+        location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build timestamp="1465972000518288000" >
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="1465972552466450000" >
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/tongull1/Documents/GitHub/ScratchView/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
